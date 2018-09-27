@@ -1,0 +1,14 @@
+
+Option "minify-level" "full"
+Option "uglify"
+Option "uglify-level" "full"
+Option "no-executable"
+
+
+Module "global" "global.lua"
+Module "io_ext" "io_ext.lua"
+
+Main "init.lua"
+
+Output "lib.lua"
+
