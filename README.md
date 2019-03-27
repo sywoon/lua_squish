@@ -1,7 +1,7 @@
 # lua_squish
 lua混淆 + 打包工具
 [原始地址](https://github.com/LuaDist/squish)
-
+lua扩展库[sllib](https://github.com/sywoon/sllib_lua.git)
 
 ## 功能扩展
 -c "Output 'test_out.lua';Main 'test.lua';" 
