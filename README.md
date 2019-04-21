@@ -16,6 +16,9 @@ lua扩展库[sllib](https://github.com/sywoon/sllib_lua.git)
 2. 多个文件合并为一个(常用于lua库)：
    将文件夹拖入squish_to_one\make_lua.bat
 
+## 更新sllib_lua
+1. git submodule init sllib_lua
+2. git submodule update sllib_lua
 
 
 
