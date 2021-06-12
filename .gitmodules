@@ -1,3 +1,3 @@
 [submodule "sllib_lua"]
 	path = sllib_lua
-	url = https://github.com/sywoon/sllib_lua.git
+	url = git@github.com:sywoon/sllib_lua.git
