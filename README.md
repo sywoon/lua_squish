@@ -3,6 +3,14 @@ lua混淆 + 打包工具
 [原始地址](https://github.com/LuaDist/squish)
 lua扩展库[sllib](https://github.com/sywoon/sllib_lua.git)
 
+--no-minify
+--minify-level=level
+    none, basic, default, full
+--uglify
+--uglify-level=LEVEL
+    none, basic, default, full
+
+
 ## 功能扩展
 -c "Output 'test_out.lua';Main 'test.lua';" 
 用于读取配置信息,而非从squishy读取,
