@@ -1,4 +1,5 @@
 @echo off
+set "path=%~dp0/../lua5.1/;%path%"
 
 echo %~dp1
 pushd %~dp1
